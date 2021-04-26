@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.73cc45fe.chunk.css",
+    "main.js": "./static/js/main.59ea194b.chunk.js",
+    "main.js.map": "./static/js/main.59ea194b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e22c4a31.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e22c4a31.js.map",
+    "static/js/2.126581e2.chunk.js": "./static/js/2.126581e2.chunk.js",
+    "static/js/2.126581e2.chunk.js.map": "./static/js/2.126581e2.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.73cc45fe.chunk.css.map": "./static/css/main.73cc45fe.chunk.css.map",
+    "static/js/2.126581e2.chunk.js.LICENSE.txt": "./static/js/2.126581e2.chunk.js.LICENSE.txt",
+    "static/media/heyparis.9df72e35.jpg": "./static/media/heyparis.9df72e35.jpg",
+    "static/media/jackie.40fde9c9.jpg": "./static/media/jackie.40fde9c9.jpg",
+    "static/media/toomuch.83c9fcf2.jpg": "./static/media/toomuch.83c9fcf2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e22c4a31.js",
+    "static/js/2.126581e2.chunk.js",
+    "static/css/main.73cc45fe.chunk.css",
+    "static/js/main.59ea194b.chunk.js"
+  ]
+}
